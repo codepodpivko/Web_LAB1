@@ -1,0 +1,228 @@
+body{
+	background: #edeef0;
+	padding: 0;
+	margin: 0;
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+
+header{
+	width: 100%;
+	height: 50px;
+	background: #507299;
+	margin: 0;
+	padding: 0;
+	position: fixed;
+	top:0;
+}
+
+header>div{
+	float: left;
+	background: #fff;
+}
+
+.right{
+	float: right!important;
+}
+
+.left{
+	float: left!important;
+}
+
+.logo{
+	width: 30px;
+	height: 30px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	margin: 10px 30px;
+}
+
+.search{	
+	width: 200px;
+	height: 28px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	margin: 11px 200px;
+	margin-right: 50px;
+}
+
+.notifications{
+	width: 30px;
+	height: 30px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	margin: 10px 20px;
+}
+
+
+.profilelist{
+	float:	right;
+	width: 80px;
+	height: 28px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	margin: 11px 200px;
+	margin-right: 50px;
+}
+
+
+.leftmenu{
+	float:left;
+	width: 15%;
+	height: 100%;
+}
+
+.leftmenu>p{
+	float: center;
+	padding-top: 5px;
+	margin-left: 25%;
+	font-size: 18px;
+	color: #285473;
+}
+
+.leftbar{
+	float: left;
+	width: 15%;
+}
+
+.avatar{
+	width: 100%;
+	height: 250px;
+	background: #fff;
+}
+
+.friends{
+	margin-top:50px;
+	width: 100%;
+	height: 260px;
+	background: #fff;
+}
+
+.friends>div{
+	float: left
+}
+
+.friend{
+	position: block;
+	background: #507299;
+	width: 55px;
+	height: 55px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	margin: 20px;
+}
+
+
+.publics{
+	margin-top:50px;
+	width: 100%;
+	height: 210px;
+	background: #fff;
+	padding-top: 10px;
+}
+
+.public{
+	position: block;
+	background: #507299;
+	width: 80%;
+	height: 40px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	margin: 20px;
+}
+
+.videos{
+	border-top: 5px solid #edeef0;
+	width: 100%;
+	height: 280px;
+	background: #fff;
+	padding-top: 10px;
+}
+
+.video{
+	position: block;
+	background: #507299;
+	width: 80%;
+	height: 100px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	margin: 20px;
+}
+
+.music{
+	border-top: 5px solid #edeef0;
+	width: 100%;
+	height: 260px;
+	background: #fff;
+	margin-bottom: 50px;
+}
+
+.audio{
+	position: block;
+	background: #507299;
+	width: 80%;
+	height: 40px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	margin: 20px;
+}
+
+.rightbar{
+	width: 50%;
+	height: 100%;
+	margin-left: 40%;
+}
+
+.profileinfo{
+	width: 100%;
+	height: 300px;
+	background: #fff;
+}
+
+.photos{
+	margin-top: 50px;
+	width: 100%;
+	height: 150px;
+	background: #fff;
+}
+
+.photo{
+	float: left;
+	position: block;
+	background: #507299;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	margin: 20px;
+	margin-right: 48px;
+
+}
+
+.postline{
+	margin-top: 40px;
+	width: 100%;
+	height: 50px;
+	background: #fff;
+}
+
+.posts{
+	padding-top: 15px;
+	margin-top: 20px;
+	width: 100%;
+	height: 700px;
+	background: #fff;
+}
+
+.post{
+	float: left;
+	position: block;
+	background: #507299;
+	width: 93%;
+	height: 300px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	margin: 20px;
+	margin-right: 48px;
+
+}
